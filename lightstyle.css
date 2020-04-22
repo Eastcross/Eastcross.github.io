@@ -1,0 +1,159 @@
+header {
+	height: 100%;
+	width: 100%;
+	background-image: url(pictures/headground.jpeg);
+	background-size: 100% 100%;
+	border-radius: 5px;
+}
+
+.leftconer {
+	width: 17%;
+	height: 76%;
+}
+
+.contacts {
+	font-size: 1.5vw;
+	text-align: center;
+	color: white;
+}
+
+.durov {
+	padding-left: 35%;
+	color: gold;
+	font-size: 1.2vw;
+	text-decoration: none;
+}
+
+.letter {
+	padding-left: 18%;
+	width: 7%;
+}
+	
+.post {
+	color:gold;
+	font-size: 1.2vw;
+	text-decoration: none;
+}
+
+.tel {
+	padding-left: 18%;
+	width: 7%;
+}
+
+.phone {
+	color:gold;
+	padding-left: 11%;
+	font-size: 1.2vw;
+	text-decoration: none;
+}
+
+a:hover {
+	color: blue;
+}
+
+span {
+	color:gold;
+	padding-left: 19%;
+	font-size: 1.2vw;
+}
+
+.sidebar {
+	width: 66%;
+	margin-top: 1%;
+}
+
+.adress {
+	color: gold;
+	text-decoration: none;
+	font-size: 2.3vw;
+	padding-left: 2%;
+	padding-right: 4%;
+	transition: 1s;
+}
+.adress:hover {
+	color: lime;
+	background-color: grey;
+}
+
+.galery {
+	font-size: 1.5vw;
+	color: gold;
+	text-decoration: none;
+	margin-left: 9%;
+	padding: 0 1% 0 1%;
+	border-radius: 3px;
+	display: inline-block;
+	vertical-align: 15%;
+	transition: 1s;
+}
+.galery:hover {
+	color: grey;
+	box-shadow: inset 0 1px 0 white, inset 0 -1px 0 #d9d9d9, inset 0 0 0 1px #f2f2f2;
+	background-color: #f2f2f2;
+	background-image: linear-gradient(to bottom, #f2f2f2, #f2f2f2);
+	border: 1px solid #bfbfbf;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+.smith {
+	font-size: 1.5vw;
+	color: gold;
+	text-decoration: none;
+	margin-left: 3%;
+	padding: 0 1% 0 1%;
+	border-radius: 3px;
+	display: inline-block;
+	vertical-align: 15%;
+	transition: 1s;
+}
+
+.smith:hover {
+	color: #967d09;
+	box-shadow: inset 0 1px 0 #fff6ce, inset 0 -1px 0 #e3c852, inset 0 0 0 1px #fce88d, 0 2px 4px rgba(0, 0, 0, 0.2);
+	background-color: #fce374;
+	background-image: linear-gradient(to bottom, #fce374, #fcdf5b);
+	border: 1px solid #c9ae34;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+.liqvidation {
+	font-size: 1.5vw;
+	color: gold;
+	text-decoration: none;
+	margin-left: 3%;
+	padding: 0 1% 0 1%;
+	border-radius: 3px;
+	display: inline-block;
+	vertical-align: 15%;
+	transition: 1s;
+}
+
+.liqvidation:hover {
+	color: white;
+	box-shadow: inset 0 1px 0 #ffb984, inset 0 -1px 0 #db6f1d, inset 0 0 0 1px #f59851, 0 2px 4px rgba(0, 0, 0, 0.2);
+	background-color: #f58a38;
+	background-image: linear-gradient(to bottom, #f58a38, #f57c20);
+	border: 1px solid #c25706;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.vocabulary {
+	font-size: 1.5vw;
+	color: gold;
+	text-decoration: none;
+	margin-left: 3%;
+	padding: 0 1% 0 1%;
+	border-radius: 3px;
+	display: inline-block;
+	vertical-align: 15%;
+	transition: 1s;
+}
+
+.vocabulary:hover {
+	color: white;
+	box-shadow: inset 0 1px 0 #bab6d4, inset 0 -1px 0 #655aa1, inset 0 0 0 1px #948dba, 0 2px 4px rgba(0, 0, 0, 0.2);
+	background-color: #ed6d64;
+	background-image: linear-gradient(to bottom, #ed6d64, #ed574c);
+	border: 1px solid #ba3329;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
